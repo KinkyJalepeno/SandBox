@@ -1,11 +1,10 @@
 import java.io.IOException;
-import java.sql.Connection;
 import java.util.Scanner;
 
-public class Sandbox {
+public class SandBox {
 
     public static void main(String... args) {
-        Sandbox sandbox = new Sandbox();
+        SandBox sandbox = new SandBox();
         sandbox.connect();
     }
 
